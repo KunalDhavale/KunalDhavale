@@ -14,7 +14,7 @@
 
 
 ### Connect with me!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kunaldhavale/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kunal_dhavale4/) [<img src = "https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&logoColor=white">](https://kunaldhavale.medium.com/) [<img src = "https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/kunaldhavale)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kunaldhavale/) [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krdhavale04@gmail.com) [<img src = "https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&logoColor=white">](https://kunaldhavale.medium.com/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kunal_dhavale4/) [<img src = "https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/kunaldhavale)
 
 
 <!--
